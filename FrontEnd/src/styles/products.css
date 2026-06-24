@@ -1,0 +1,14 @@
+.product-card {
+  font-size: 13px;
+}
+
+.product-img {
+  height: 140px;
+  object-fit: contain;
+  padding: 10px;
+}
+
+.card-title {
+  font-size: 14px;
+  font-weight: 600;
+}
